@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+/backend/node_modules
+/backend/browser_session
+/backend/.env
+/backend/stories/*/**
+
+/frontend/node_modules
